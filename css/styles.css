@@ -1,5 +1,13 @@
 .tagline{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family:fantasy;
   font-style: italic;
-  font-size: 18px;
+  font-size: 22px;
+}
+
+img{
+  width: 400px;
+  height: 400px;
+}
+body{
+  background-color: aqua;
 }
